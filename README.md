@@ -1,5 +1,4 @@
 # Bluetooth-Refresh-Logic
-=============
 Logic to Refresh Stale bluetooth connection in Android.
 Don't use the application directly(You have to have your device paired first). It is just a demo to show how BT connetcion can be refreshed in case it gets stale.
 
